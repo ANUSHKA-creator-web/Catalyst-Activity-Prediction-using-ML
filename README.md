@@ -51,11 +51,13 @@ Demonstrates the potential of AI-driven catalyst screening for sustainable fuel 
 Languages: Python
 Libraries: scikit-learn, pandas, NumPy, matplotlib, seaborn, Jupyter
 Tools: GitHub, Jupyter Notebook
+
 📌 Future Work
 Expand dataset with more high-activity samples
 Explore deep learning and ensemble models
 Apply SHAP/feature importance for catalyst interpretability
 Deploy as a simple web app for catalyst activity prediction
+
 👤 Authors
 Aman Malik, IIT Madras
 Anushka Singh, IIT Guwahati 🔗 Email | Email
